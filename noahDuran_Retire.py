@@ -1,14 +1,4 @@
-"""This simple Python Program collects user input
-and computes retirement planning advice
-Written by: 
-Noah Duran
-for LU's CSIS 110 course 
-B03
-Be sure you fully document your code with 
-comments like you see here."""
-
 #Asking for users Full Name, Current Age, Desired Retirement Age, Current Retirement Savinds, and Amount needed to retire
-#!/usr/bin/python
 fullName = input("What is your full name?: ") 
 currentAge = input("How old are you?: ")
 desiredRetirementAge = input("What age do you want to retire at?: ")
